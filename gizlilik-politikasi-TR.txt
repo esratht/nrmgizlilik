@@ -1,0 +1,83 @@
+GİZLİLİK POLİTİKASI VE KVKK AYDINLATMA METNİ
+
+NRM (No Regret Machine) · Yürürlük tarihi: 17 Kasım 2026
+
+NRM, internet bağlantısı olmadan çalışan ve telefonun kendi ayarlarıyla oynanan bir oyundur. Senin hakkında hiçbir kişisel veri toplamaz, saklamaz, işlemez ya da kimseyle paylaşmaz. Uygulamaya yazdığın her şey yalnızca kendi telefonunda kalır.
+
+1. Veri sorumlusu
+
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (KVKK) 10. maddesi kapsamında bilgilendirme amacıyla hazırlanmıştır.
+
+Uygulamanın geliştiricisi: Esra Tahtalı
+
+Adres: Mersinli Ahmet Cad. No: 21, Akdeniz / Mersin, Türkiye
+
+İletişim: massalverse@gmail.com
+
+NRM hiçbir kişisel veriyi kendi sunucularına ya da başka bir yere aktarmadığı için geliştirici, uygulamaya girdiğin bilgilere erişemez ve bu bilgiler bakımından bir veri işleme faaliyeti yürütmez.
+
+2. Uygulamaya yazdıkların nerede durur?
+
+Kararların, cevapların, notların ve dönüş puanların yalnızca telefonunun içindeki uygulama depolama alanında saklanır. Bu bilgiler:
+
+• internet üzerinden hiçbir yere gönderilmez,
+
+• geliştiriciye ya da üçüncü kişilere ulaşmaz,
+
+• hiçbir hesapla ilişkilendirilmez, çünkü uygulamada hesap yoktur.
+
+Telefonunun yedekleme ayarları açıksa, uygulama verileri telefonun iCloud ya da Google hesabına aldığı cihaz yedeğine dahil olabilir. Bu yedek Apple veya Google ile senin aranda kalır; geliştiriciye ulaşmaz.
+
+3. Toplamadığımız şeyler
+
+• Ad, e-posta, telefon numarası ya da başka bir kimlik bilgisi
+
+• Konum bilgisi
+
+• Rehber, fotoğraf, kamera ya da mikrofon verisi
+
+• Cihaz kimliği, reklam kimliği ya da IP adresi
+
+• Kullanım istatistikleri, çökme raporları ya da analiz verisi
+
+Uygulamada reklam, analiz aracı, takip kodu ya da üçüncü taraf yazılım geliştirme kiti (SDK) bulunmaz. Fontlar dahil tüm dosyalar uygulamanın içindedir; uygulama çalışırken internete bağlanmaz.
+
+4. Bildirimler
+
+Bildirim izni verirsen, bekleme süresi dolduğunda ve dönüş tarihi geldiğinde telefonun sana hatırlatma gösterir. Bu bildirimler telefonun içinde, yerel olarak zamanlanır. Bildirim göndermek için hiçbir sunucu kullanılmaz ve kararlarının içeriği hiçbir yere iletilmez. İzni dilediğin zaman telefonunun ayarlarından ya da uygulamanın Ayarlar ekranından kapatabilirsin.
+
+5. Satın alma
+
+NRM, App Store ya da Google Play üzerinden tek seferlik ücretle satın alınır. Ödeme işlemini Apple veya Google yürütür; kart bilgilerin geliştiriciye ulaşmaz. Mağazalar, satış raporlarında geliştiriciyle ülke gibi sınırlı bilgiler paylaşabilir. Bu bilgiler yalnızca muhasebe ve yasal yükümlülükler için kullanılır, pazarlama amacıyla kullanılmaz. Bu süreçte Apple’ın ve Google’ın kendi gizlilik politikaları geçerlidir.
+
+6. Verilerini silmek
+
+Tüm verilerin senin kontrolündedir:
+
+• Uygulamada Ayarlar → Tüm verileri sil seçeneğiyle her şeyi kalıcı olarak silebilirsin.
+
+• Uygulamayı telefonundan kaldırdığında tüm veriler de silinir.
+
+Geliştiricinin elinde senin verilerinin bir kopyası olmadığı için silinen veriler geri getirilemez.
+
+7. KVKK kapsamındaki hakların
+
+KVKK’nın 11. maddesi uyarınca; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, işlenme amacını öğrenme, aktarıldığı kişileri bilme, düzeltilmesini ya da silinmesini isteme, itiraz etme ve zarara uğraman hâlinde zararın giderilmesini talep etme haklarına sahipsin.
+
+NRM kişisel veri işlemediği için bu sorulara cevabımız: verilerin işlenmemekte ve kimseye aktarılmamaktadır. Yine de her türlü soru ve başvurun için massalverse@gmail.com adresine yazabilirsin. Başvurular en geç 30 gün içinde ücretsiz olarak cevaplanır.
+
+8. Yurt dışına aktarım
+
+Geliştirici tarafından yurt içine ya da yurt dışına herhangi bir kişisel veri aktarımı yapılmaz.
+
+Oyun hakkında
+
+Burada çıkan sonuçlar bir yönlendirme içermez, sadece oyundur. NRM kendi kararlarını düşünmen için tasarlanmış bir oyundur. Psikolojik, tıbbi, finansal ya da hukuki tavsiye yerine geçmez. Makinenin gösterdiği pişmanlık riski yalnızca senin cevaplarının bir özetidir.
+
+9. Çocuklar
+
+NRM yetişkinler için tasarlanmıştır. Uygulama hiç kimseden, çocuklar dahil, kişisel veri toplamaz.
+
+10. Değişiklikler
+
+Uygulama ileride veri toplayan bir özellik kazanırsa, bu metin özellik yayınlanmadan önce güncellenir ve uygulama içinde açıkça bildirilir. Güncel metin her zaman bu sayfada yer alır.

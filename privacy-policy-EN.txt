@@ -1,0 +1,71 @@
+PRIVACY POLICY
+
+NRM (No Regret Machine) · Effective date: November 17, 2026
+
+NRM is a game that works without an internet connection and is played using your phone’s own settings. It does not collect, store, process or share any personal data about you. Everything you type into the app stays on your own phone.
+
+1. Who we are
+
+Developer: Esra Tahtalı
+
+Address: Mersinli Ahmet Cad. No: 21, Akdeniz / Mersin, Türkiye
+
+Contact: massalverse@gmail.com
+
+This notice is also provided under Turkish Personal Data Protection Law No. 6698 (KVKK). Because NRM sends no data to us or anyone else, the developer cannot access the information you enter in the app.
+
+2. Where your entries are stored
+
+Your decisions, answers, notes and check-in ratings are stored only in the app’s storage on your phone. They are never sent over the internet, never reach the developer or third parties, and are not linked to any account (the app has no accounts).
+
+If device backup is turned on, app data may be included in your phone’s iCloud or Google backup. That backup stays between you and Apple or Google and never reaches the developer.
+
+3. What we do not collect
+
+• Name, email, phone number or any other identifier
+
+• Location
+
+• Contacts, photos, camera or microphone data
+
+• Device ID, advertising ID or IP address
+
+• Usage statistics, crash reports or analytics
+
+The app contains no ads, analytics, trackers or third-party SDKs. All files, including fonts, are bundled in the app; it does not connect to the internet while running.
+
+4. Notifications
+
+If you allow notifications, your phone shows reminders when a wait timer ends and when a check-in is due. They are scheduled locally on your device. No server is used and the content of your decisions is never transmitted. You can turn them off anytime in your phone’s settings or in the app’s Settings screen.
+
+5. Purchase
+
+NRM is a one-time purchase on the App Store or Google Play. Payment is handled by Apple or Google, and your card details never reach the developer. Stores may share limited information such as country in sales reports; this is used only for accounting and legal obligations, never for marketing. Apple’s and Google’s own privacy policies apply to the purchase.
+
+6. Deleting your data
+
+• Use Settings → Delete all data in the app to permanently erase everything.
+
+• Uninstalling the app also deletes all of its data.
+
+The developer holds no copy of your data, so deleted data cannot be recovered.
+
+7. Your rights
+
+Under KVKK Article 11 and similar laws such as the GDPR, you have the right to ask whether your personal data is processed, to request access, correction or deletion, and to object. Since NRM processes no personal data, our answer is: your data is not processed or shared. You can still contact us at massalverse@gmail.com; we reply free of charge within 30 days.
+
+8. International transfers
+
+The developer does not transfer any personal data within or outside Turkey.
+
+About the game
+
+These results are not guidance. It’s just a game. NRM is a game designed to help you think through your own decisions. It is not a substitute for psychological, medical, financial or legal advice. The regret risk the machine shows is only a summary of your own answers.
+
+9. Children
+
+NRM is designed for adults. The app collects no personal data from anyone, including children.
+
+10. Changes
+
+If a future version adds any feature that collects data, this policy will be updated before that feature ships and the change will be clearly shown in the app. The current version is always on this page.
