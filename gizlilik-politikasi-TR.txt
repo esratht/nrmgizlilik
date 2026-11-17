@@ -26,7 +26,9 @@ Kararların, cevapların, notların ve dönüş puanların yalnızca telefonunun
 
 • hiçbir hesapla ilişkilendirilmez, çünkü uygulamada hesap yoktur.
 
-Telefonunun yedekleme ayarları açıksa, uygulama verileri telefonun iCloud ya da Google hesabına aldığı cihaz yedeğine dahil olabilir. Bu yedek Apple veya Google ile senin aranda kalır; geliştiriciye ulaşmaz.
+Android’de uygulama verileri Google yedeğine alınmaz. iPhone’da iCloud yedeklemesi açıksa, uygulama verileri telefonun iCloud’a aldığı cihaz yedeğine dahil olabilir. Bu yedek Apple ile senin aranda kalır; geliştiriciye ulaşmaz.
+
+Bildirimlerde kararlarının içeriği yazmaz; kilit ekranında yalnızca genel bir hatırlatma görünür.
 
 3. Toplamadığımız şeyler
 

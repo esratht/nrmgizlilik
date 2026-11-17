@@ -18,7 +18,9 @@ This notice is also provided under Turkish Personal Data Protection Law No. 6698
 
 Your decisions, answers, notes and check-in ratings are stored only in the app’s storage on your phone. They are never sent over the internet, never reach the developer or third parties, and are not linked to any account (the app has no accounts).
 
-If device backup is turned on, app data may be included in your phone’s iCloud or Google backup. That backup stays between you and Apple or Google and never reaches the developer.
+On Android, app data is not included in Google backups. On iPhone, if iCloud Backup is on, app data may be included in your device backup. That backup stays between you and Apple and never reaches the developer.
+
+Notifications never show the content of your decisions; only a general reminder appears on the lock screen.
 
 3. What we do not collect
 
